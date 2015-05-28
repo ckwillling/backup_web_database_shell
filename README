@@ -1,0 +1,7 @@
+This is a simple shell to backup your dir for crontab.
+It also backup your database each monday(You can change it in shell script).
+
+You will need to do the first 2 things below before use it
+
+1: create backup dir /data/web_backups(or change to your dir and modify it in script)
+2: modify mysql user,password and database name
