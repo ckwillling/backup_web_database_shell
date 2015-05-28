@@ -1,4 +1,4 @@
-This is a simple shell to backup your dir with tar command for crontab.
+This is a simple shell to backup your dir with tar command for crontab(once a day).
 It also backup your database each monday(You can change it in shell script).
 It would also remove expired backup files(default 60 days)
 
